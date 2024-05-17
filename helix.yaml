@@ -3,5 +3,5 @@ description: This is a test Helix RAG app
 assistants:
 - name: My Example RAG Assistant
   description: This is an example assistant with a rag source
-  rag_source_id: a0fe80d2-ad85-42c6-a39e-26f8fa024b6f
+  rag_source_id: 8b4ff837-b42e-41d2-a5cd-fc7f6c26e08f
   
